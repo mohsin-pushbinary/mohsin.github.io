@@ -1,0 +1,15 @@
+.bg-dark {
+    background-color: #000000 !important;
+}
+
+.secondary-nav {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+.nav-primary{
+    padding-top: 50px;
+}
+.icon-c{
+    color:#fff !important
+}
